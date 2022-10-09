@@ -8,6 +8,6 @@ The title of every exercise is commented and then is followed by the related cod
 
 I mistakenly wrote the first 8 exercises in PyPy3 but of course the code still run in Python.
 
-I found some difficulty with the regex, for some exercises of the regex I saw the discussions on the Hackerrank.
+I found some difficulty with the regex, for some exercises of the regex I saw the discussions on the Hackerrank for some clues.
 
-Also for the InsertionSort2 I saw discussions on hackerrank website.
+Also for the InsertionSort2 I saw discussions on hackerrank website for some clues.
