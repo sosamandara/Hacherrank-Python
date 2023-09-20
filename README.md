@@ -1,13 +1,19 @@
-# Hacherrank-Python
-**Homework 1 for ADM-Data Science 2022-2023
+# HackerrankPython
+### Homework 1 for the course of ALGORITHMIC METHODS OF DATA MINING AND LABORATORY (2022/23)
 
-I have uploaded the merged PDF named "stamps.pdf" with all the submissions done in Hackerrank.
+## content
 
-I have uploaded the file .py named "scripts.py" with all the exercises done.
-The title of every exercise is commented and then is followed by the related code.
+1. `scripts.py`
+>- The collection of exercises written consecutively on a single file 
+>- The excercices are sorted by challenge and every single exercise is preceded by its own title (the number and the challenge group are not reported
+>- The last 4 excercices of regex group and "Recursive Digit Sum" refer to the "discussions" section of the site itself and/or the stackoverflow site 
+>- The code is written in both python3 and PyPy 3
+>- Additional code comments beyond the lines with the titles of the various exercises are present
+2. `stamps.pdf`
+>- A pdf flie with all the screenshots of the submissions inside (sorted by challenge)
 
-I mistakenly wrote the first 8 exercises in PyPy3 but of course the code still run in Python.
+## meta-data
+* Completion date: 6th oct 2022
+* User: Angelo Mandara 
 
-I found some difficulty with the regex, for some exercises of the regex I saw the discussions on the Hackerrank for some clues.
-
-Also for the InsertionSort2 I saw discussions on hackerrank website for some clues.
+ ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
